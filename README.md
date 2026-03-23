@@ -11,21 +11,18 @@ Data sources used in the construction of this dataset are public institutional s
 For the period 1989-2006, the data were compiled manually from the Annual Reports of the Directorate-General for Community Funds (DGFC), Ministry of Economy and Finance, Spain. For the periods 2007-2013 and 2014-2020, data were collected from the EU Cohesion Open Data Platform (cohesiondata.ec.europa.eu), which provides figures at current prices but does not offer a unified longitudinal structure across programming periods.
 
 What this database provides that is not available on the platform?
+* Coverage 1989–2006: the EU platform only covers the period from 2007 onwards. Your database covers the first three financial frameworks (1989–2006), with data sourced from the DGFC Annual Reports, which are difficult to access.
+* A single longitudinal table enabling analysis of regional convergence without having to combine 6 different sources.
+* Breakdown by programming axis for the entire period, not just by thematic objective.
+* Breakdown by autonomous community since 1989, standardising the 17 autonomous communities over 32 years.
+* Series in constant euros (2000 and 2020): the platform only provides current values.
+* A proprietary, standardised thematic classification across 7 areas comparable across all periods.
 
-Coverage 1989–2006: the EU platform only covers the period from 2007 onwards. Your database covers the first three financial frameworks (1989–2006), with data sourced from the DGFC Annual Reports, which are difficult to access.
-A single longitudinal table enabling analysis of regional convergence without having to combine 6 different sources.
-Breakdown by programming axis for the entire period, not just by thematic objective.
-Breakdown by autonomous community since 1989, standardising the 17 autonomous communities over 32 years.
-Series in constant euros (2000 and 2020): the platform only provides current values.
-A proprietary, standardised thematic classification across 7 areas comparable across all periods.
 Thematic classification into 7 areas:
-      For 1989-2006: direct correspondence table (axis name -> thematic area)
-      For 2007-2020: thematic area codes sourced directly from EU Open Data
-      The 7 thematic areas are:
-        1 = Infraestructuras                             (Transport infrastructure)
-        2 = Actividades productivas                (Productive activities)
-        3 = Desarrollo local y urbano              (Local and urban development)
-        4 = Energia y medio ambiente            (Energy and environment)
-        5 = Conocimiento                                (Knowledge economy, R&D, ICT)
-        6 = Comunicaciones y digitalizacion   (Telecommunications and ICT)
-        7 = Asistencia tecnica                          (Technical assistance)
+1 = Infraestructuras (Transport infrastructure)
+2 = Actividades productivas (Productive activities)
+3 = Desarrollo local y urbano (Local and urban development)
+4 = Energia y medio ambiente (Energy and environment)
+5 = Conocimiento (Knowledge economy, R&D, ICT)
+6 = Comunicaciones y digitalizacion (Telecommunications and ICT)
+7 = Asistencia tecnica (Technical assistance)
