@@ -1,6 +1,6 @@
 # ERDF-CF-Spain-NUTS2-1989-2020
 
-This dataset compiles certified expenditure data from the European Regional Development Fund (ERDF) and the Cohesion Fund (CF) in Spain, covering six programming periods from 1989 to 2020. Data are disaggregated by Autonomous Community (CCAA / NUTS2 region), execution year, programming axis (Eje), and thematic area (Area). All monetary values are expressed in thousands of euros at constant 2000 prices (Gasto_m_eur00) and at constant 2020 prices (Gasto_m_eur2020), using the Spanish CPI (INE) as the deflator.
+This dataset compiles certified information on expenditure from the European Regional Development Fund (ERDF) and the Cohesion Fund (CF) in Spain, covering six programming periods from 1989 to 2020. A script has been created in RStudio to perform the necessary transformations to generate the output, where the data is disaggregated by autonomous community (CCAA / NUTS 2 region), year of implementation, programming axis (Axis) and thematic area (Area). All monetary values are expressed in thousands of euros at constant 2000 prices (Gasto_m_eur00) and at constant 2020 prices (Gasto_m_eur2020), using the Spanish CPI (INE) as the deflator.
 
 Data sources used in the construction of this dataset are public institutional sources:
     - Informes Anuales de la DG de Fondos Comunitarios (DGFC), Ministerio de Hacienda, España (1989-2010). Available at: https://www.fondoseuropeos.hacienda.gob.es/sitios/dgfc/es-ES/ei/er/paginas/iadgfe.aspx
