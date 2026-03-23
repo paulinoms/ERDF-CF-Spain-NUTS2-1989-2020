@@ -3,7 +3,7 @@
 This dataset compiles certified expenditure data from the European Regional Development Fund (ERDF) and the Cohesion Fund (CF) in Spain, covering six programming periods from 1989 to 2020. Data are disaggregated by Autonomous Community (CCAA / NUTS2 region), execution year, programming axis (Eje), and thematic area (Area). All monetary values are expressed in thousands of euros at constant 2000 prices (Gasto_m_eur00) and at constant 2020 prices (Gasto_m_eur2020), using the Spanish CPI (INE) as the deflator.
 
 Data sources used in the construction of this dataset are public institutional sources:
-    - Informes Anuales de la Direccion General de Fondos Comunitarios (DGFC), Ministerio de Economia y Hacienda, Espana (1989-2009). Available at: https://www.fondoseuropeos.hacienda.gob.es/
+    - Informes Anuales de la DG de Fondos Comunitarios (DGFC), Ministerio de Hacienda, España (1989-2010). Available at: https://www.fondoseuropeos.hacienda.gob.es/sitios/dgfc/es-ES/ei/er/paginas/iadgfe.aspx
     - EU Cohesion Open Data Platform, European Commission (2007-2021). Available at: https://cohesiondata.ec.europa.eu/
     - EUROSTAT, table [ert_bil_conv_a] — ECU/EUR annual exchange rates.
     - INE/CPI Spain, interannual rates (December), base 2000. Available at: https://ine.es/
