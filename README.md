@@ -19,10 +19,10 @@ What this database provides that is not available on the platform?
 * A proprietary, standardised thematic classification across 7 areas comparable across all periods.
 
 Thematic classification into 7 areas:
-1 = Infraestructuras (Transport infrastructure)
-2 = Actividades productivas (Productive activities)
-3 = Desarrollo local y urbano (Local and urban development)
-4 = Energia y medio ambiente (Energy and environment)
-5 = Conocimiento (Knowledge economy, R&D, ICT)
-6 = Comunicaciones y digitalizacion (Telecommunications and ICT)
-7 = Asistencia tecnica (Technical assistance)
+* 1 = Infraestructuras (Transport infrastructure)
+* 2 = Actividades productivas (Productive activities)
+* 3 = Desarrollo local y urbano (Local and urban development)
+* 4 = Energia y medio ambiente (Energy and environment)
+* 5 = Conocimiento (Knowledge economy, R&D, ICT)
+* 6 = Comunicaciones y digitalizacion (Telecommunications and ICT)
+* 7 = Asistencia tecnica (Technical assistance)
