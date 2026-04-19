@@ -8,8 +8,8 @@
 #  Affil.  : ECOBAS & GCD, Department of Economics, University of A Coruña (UDC), Spain
 #  Email   : paulino.montes.solla@udc.es
 #  Repo    : https://github.com/paulinoms/ERDF-CF-Spain-NUTS2-1989-2020
-#  Version : 2.0 (optimized and robust)
-#  Date    : 2026-04-19
+#  Version : 1.0
+#  Date    : 2026-03-22
 #  License : Creative Commons Attribution 4.0 International (CC BY 4.0)
 #             https://creativecommons.org/licenses/by/4.0/
 #
